@@ -11,8 +11,8 @@
 ## <u>Jetson</u>
 ## <u>Result</u>
 * jetson_case
-<br><img height="200" src="https://github.com/wlgh312/Hi-Pi/result/case_infront.png"/><img height="200" src="https://github.com/wlgh312/Hi-Pi/result/case_side.png"/>
+<br><img height="200" src="https://github.com/wlgh312/Hi-Pi/blob/master/result/case_infront.png"></img><img height="200" src="https://github.com/wlgh312/Hi-Pi/blob/master/result/case_side.png"></img><br>
 * acc
-<img height="200" src="https://github.com/wlgh312/Hi-Pi/blob/master/result/accuracy.png"></img><br>
+<br><img height="300" src="https://github.com/wlgh312/Hi-Pi/blob/master/result/accuracy.png"></img><br>
 * demo
-<br><img height="200" src="https://github.com/wlgh312/Hi-Pi/result/result_img.png"/><br>
+<br><img height="200" src="https://github.com/wlgh312/Hi-Pi/blob/master/result/result_img.png"></img>
