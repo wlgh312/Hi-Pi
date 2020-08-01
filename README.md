@@ -13,6 +13,6 @@
 * jetson_case
 <br><img height="200" src="https://github.com/wlgh312/Hi-Pi/result/case_infront.png"/><img height="200" src="https://github.com/wlgh312/Hi-Pi/result/case_side.png"/>
 * acc
-<br><img height="200" src="https://github.com/wlgh312/Hi-Pi/result/accuracy.png"/><br>
+<br><img height="200" src="https://github.com/wlgh312/Hi-Pi/blob/master/result/accuracy.png"/ ><br>
 * demo
 <br><img height="200" src="https://github.com/wlgh312/Hi-Pi/result/result_img.png"/><br>
